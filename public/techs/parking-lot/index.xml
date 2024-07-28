@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parking Lot on Hugh Blacktop</title>
+    <link>http://localhost:1313/techs/parking-lot/</link>
+    <description>Recent content in Parking Lot on Hugh Blacktop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Costello Blacktop</copyright>
+    <lastBuildDate>Thu, 02 May 2024 19:47:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/techs/parking-lot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Church Parking Lot</title>
+      <link>http://localhost:1313/portfolio/church/</link>
+      <pubDate>Thu, 02 May 2024 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/church/</guid>
+      <description>Photo Prior to Starting&#xA;Striping and Markings Painted</description>
+    </item>
+    <item>
+      <title>Long Driveway</title>
+      <link>http://localhost:1313/portfolio/long-driveway/</link>
+      <pubDate>Tue, 02 Apr 2024 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/long-driveway/</guid>
+      <description>Photo Prior to Starting&#xA;Striping and Markings Painted</description>
+    </item>
+    <item>
+      <title>Three Car Garage</title>
+      <link>http://localhost:1313/portfolio/three-car-garage/</link>
+      <pubDate>Sun, 02 Jul 2023 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/three-car-garage/</guid>
+      <description>During Resealing</description>
+    </item>
+    <item>
+      <title>Home Driveway</title>
+      <link>http://localhost:1313/portfolio/house/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/house/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
