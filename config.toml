@@ -1,8 +1,8 @@
 baseURL = "https://costello-paving.com"
 languageCode = "en-us"
-title = "Hugh Blacktop"
+title = "Costello Paving"
 theme = "personal-web"
-copyright="© Costello Blacktop"
+copyright="© Costello Paving"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Hugh :wave:"
-  sub = "I'm a Blacktop Sealer and Entrepreneur"
+  main = "Hi, we're Hugh and John :wave:"
+  sub = "We do Blacktop Seal Coatings and Repairs"
 
 [params.main]
   latestPublishHeader = "My Latest Project"

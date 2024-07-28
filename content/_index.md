@@ -6,8 +6,8 @@ images: ["/images/sample.jpg"]
 
 Hey,
 
-I'm Hugh Costello, a Blacktop Sealer and Entrepreneur.
+We're Hugh Costello and John O'Hara, we specialize in Blacktop Seal Coatings and Repairs.
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque. -->
+Should your blacktop need a new seal coat or repair, we're the guys to call.
 
 [Get in contact!](/contact "Get in contact!")
